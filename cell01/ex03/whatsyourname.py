@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 firstname = input("yo whats your name twin: ")
 lastname = input("yo whats your lastname twin: ")
 
