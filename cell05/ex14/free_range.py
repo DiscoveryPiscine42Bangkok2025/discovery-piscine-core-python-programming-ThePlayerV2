@@ -3,7 +3,7 @@
 import sys
 
 del sys.argv[0]
-
+    
 if len(sys.argv) == 2:
     num1 = int(sys.argv[0])
     num2 = int(sys.argv[1])
@@ -15,7 +15,5 @@ if len(sys.argv) == 2:
     
     print(f"[{', '.join(l)}]")
 
-
-  
 else:
     print('none')
